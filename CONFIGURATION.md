@@ -11,7 +11,7 @@ Aquest document detalla la configuració d’usuaris, rols, permisos i administr
 
 ---
 
-### 🔐 2. Assignació de rols i permisos
+### 🔐 2. Assignació de nombres i contrasenyes
 Les dades per instalar:
 
 ![13 - Assignació de permisos](13.png)
