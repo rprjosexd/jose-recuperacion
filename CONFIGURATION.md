@@ -12,10 +12,7 @@ Aquest document detalla la configuració d’usuaris, rols, permisos i administr
 ---
 
 ### 🔐 2. Assignació de rols i permisos
-
-A cada usuari se li han assignat permisos específics:
-
-- **admin**: control total
+Les dades per instalar:
 
 ![13 - Assignació de permisos](13.png)
 
