@@ -54,9 +54,14 @@ S’han compartit fitxers amb altres usuaris i s’han configurat opcions com:
 recuperacion
 ---
 
-### 🛡️ 6. Polítiques de seguretat
+### 🛡️ 6. Creació d’usuaris
 
-Es configuren funcions addicionals com la caducitat automàtica dels enllaços compartits i opcions de seguretat per als arxius.
+S’han creat tres usuaris amb diferents rols per simular un entorn col·laboratiu:
+
+- **admin** – Administrador del sistema
+- **editor1** – Pot modificar i pujar arxius
+- **viewer1** – Només pot visualitzar contingut
+.
 
 ![17 - Configuració de seguretat](17.png)
 
