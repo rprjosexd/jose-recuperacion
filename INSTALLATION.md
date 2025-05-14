@@ -8,67 +8,67 @@ Aquest document mostra les passes per instal·lar ownCloud en una màquina virtu
 
 ### 📸 1. Creació de la màquina virtual
 
-![1](img/1.png)
+![1](1.png)
 
 ---
 
 ### 📸 2. Accés a la terminal de la màquina virtual
 
-![2](img/2.png)
+![2](2.png)
 
 ---
 
 ### 📸 3. Instal·lació del servidor web Apache
 
-![3](img/3.png)
+![3](3.png)
 
 ---
 
 ### 📸 4. Instal·lació i configuració de MariaDB
 
-![4](img/4.png)
+![4](4.png)
 
 ---
 
 ### 📸 5. Instal·lació de PHP i mòduls requerits
 
-![5](img/5.png)
+![5](5.png)
 
 ---
 
 ### 📸 6. Descàrrega d’ownCloud
 
-![6](img/6.png)
+![6](6.png)
 
 ---
 
 ### 📸 7. Configuració de permisos
 
-![7](img/7.png)
+![7](7.png)
 
 ---
 
 ### 📸 8. Configuració del servidor Apache
 
-![8](img/8.png)
+![8](8.png)
 
 ---
 
 ### 📸 9. Accés a ownCloud des del navegador
 
-![9](img/9.png)
+![9](9.png)
 
 ---
 
 ### 📸 10. Configuració inicial d’ownCloud
 
-![10](img/10.png)
+![10](10.png)
 
 ---
 
 ### 📸 11. ownCloud instal·lat correctament
 
-![11](img/11.png)
+![11](11.png)
 
 ---
 
