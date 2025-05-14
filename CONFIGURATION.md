@@ -16,8 +16,6 @@ Aquest document detalla la configuració d’usuaris, rols, permisos i administr
 A cada usuari se li han assignat permisos específics:
 
 - **admin**: control total
-- **editor1**: accés d’escriptura en certes carpetes
-- **viewer1**: només lectura
 
 ![13 - Assignació de permisos](13.png)
 
