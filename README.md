@@ -3,7 +3,7 @@
 Aquesta pràctica mostra la instal·lació i configuració d’ownCloud mitjançant IsardVDI.
 
 ## Contingut
-![Imatge de OwnCloud](OwnCloud.png)
+![Imatge de OwnCloud](owncloud.png)
 
 - [Manual d’Instal·lació](INSTALLATION.md)
 - [Configuració d’ownCloud](CONFIGURATION.md)
