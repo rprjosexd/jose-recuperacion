@@ -26,12 +26,9 @@ S’han creat carpetes i pujat arxius per verificar el correcte funcionament de 
 
 ---
 
-### 🧪 4. Proves de funcionalitat
+### 🧪 4. Pujar arxius
 
-Cada usuari accedeix a les carpetes segons els permisos establerts:
-
-- **editor1** pot pujar i editar arxius.
-- **viewer1** pot veure'ls però no modificar-los.
+He pujat una imatges per provar si funciona, i si va
 
 ![15 - Prova de pujada d’arxius](15.png)
 
