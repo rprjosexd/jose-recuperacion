@@ -51,8 +51,6 @@ recuperacion
 S’han creat tres usuaris amb diferents rols per simular un entorn col·laboratiu:
 
 - **admin** – Administrador del sistema
-- **editor1** – Pot modificar i pujar arxius
-- **viewer1** – Només pot visualitzar contingut
 .
 
 ![17 - Configuració de seguretat](17.png)
